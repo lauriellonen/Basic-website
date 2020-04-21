@@ -1,0 +1,79 @@
+body{
+    background-color: floralwhite;
+}
+
+.main-header{
+    color: gray;
+    background-color: lightgray;
+    text-align: center;
+    height: 50%;
+    margin-top: 2px;
+    padding-bottom: 0;
+    margin-bottom: 2px;
+
+}
+#info-text{
+    color: black;
+    text-align: left;
+
+}
+#left {
+    background-color: floralwhite;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    height: 50%;
+    padding-bottom: 10%;
+    margin-top: 5px;
+}
+#right {
+    background-color: floralwhite;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    height: 50%;
+    padding-bottom: 10%;
+    margin-top: 5px;
+}
+
+img{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: dimgrey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: floralwhite;
+}
+
+footer {
+    position: absolute;
+    background-color: lightgrey;
+    height: 180px;
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+}
+ol {
+    list-style: none;
+    display: inline-block;
+}
