@@ -3,8 +3,8 @@ body{
 }
 
 .main-header{
-    color: gray;
-    background-color: lightgray;
+    color: black;
+    background-color: lightskyblue;
     text-align: center;
     height: 50%;
     margin-top: 2px;
@@ -13,12 +13,12 @@ body{
 
 }
 #info-text{
-    color: black;
+    color: steelblue;
     text-align: left;
 
 }
 #left {
-    background-color: floralwhite;
+    background-color: white;
     text-align: center;
     display: inline-block;
     width: 100%;
@@ -27,7 +27,7 @@ body{
     margin-top: 5px;
 }
 #right {
-    background-color: floralwhite;
+    background-color: white;
     text-align: center;
     display: inline-block;
     width: 100%;
@@ -45,7 +45,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: dimgrey;
+    background-color: lightblue;
 }
 
 li {
