@@ -1,5 +1,4 @@
 #
-This repository is for use as a testing platform for my html pages. My repository follows a MIT license. 
-Tämä arkisto on tarkoitettu käytettäväksi HTML-sivujeni testausalustana. repositorini noudattaa MIT-lisenssiä.
+I am using this repository for my basic static HTML5 and CSS website page. This code is for educational purpose. I have plans to add some form of javascript maybe, later on, to make this site more professional. 
 
 
